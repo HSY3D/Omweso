@@ -1,0 +1,33 @@
+# Server version 0.08 running on web112119.wireless.mcgill.ca:8123
+# Game ID: 235
+# Board class: omweso.CCBoard
+# Timeout: 2000
+# First Move Timeout: 60000
+# Date: Mon Mar 30 12:54:29 EDT 2015
+# Player 1: Player-0, 'XXXXXXXXX', running on web112119.wireless.mcgill.ca
+# Player 2: Player-1, 'random', running on web112119.wireless.mcgill.ca
+START Player-0 XXXXXXXXX
+START Player-1 random
+INIT 0 true 4,1,1,1,0,3,1,2,1,5,1,1,2,2,4,3
+INIT 1 true 3,0,6,5,6,5,1,6,0,0,0,0,0,0,0,0
+PIT 0 7
+PIT 1 4
+PIT 0 6
+PIT 1 2
+PIT 0 4
+PIT 1 6
+PIT 0 9
+PIT 1 5
+PIT 0 10
+PIT 1 0
+PIT 0 1
+PIT 1 14
+PIT 0 4
+PIT 1 11
+PIT 0 5
+PIT 1 0
+PIT 0 1
+PIT 1 9
+PIT 0 0
+GAMEOVER WINNER 0
+# Game ended: Mon Mar 30 12:54:29 EDT 2015

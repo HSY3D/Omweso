@@ -1,0 +1,27 @@
+# Server version 0.08 running on wpa076016.wireless.mcgill.ca:8123
+# Game ID: 81
+# Board class: omweso.CCBoard
+# Timeout: 2000
+# First Move Timeout: 60000
+# Date: Mon Mar 30 05:18:03 EDT 2015
+# Player 1: Player-0, 'XXXXXXXXX', running on wpa076016.wireless.mcgill.ca
+# Player 2: Player-1, 'random', running on wpa076016.wireless.mcgill.ca
+START Player-0 XXXXXXXXX
+START Player-1 random
+INIT 0 true 2,5,2,2,1,1,1,2,0,4,5,2,1,2,0,2
+INIT 1 true 4,5,3,5,6,3,3,3,0,0,0,0,0,0,0,0
+PIT 0 0
+PIT 1 2
+PIT 0 3
+PIT 1 0
+PIT 0 11
+PIT 1 1
+PIT 0 10
+PIT 1 8
+PIT 0 1
+PIT 1 6
+PIT 0 2
+PIT 1 2
+PIT 0 1
+GAMEOVER WINNER 0
+# Game ended: Mon Mar 30 05:18:03 EDT 2015

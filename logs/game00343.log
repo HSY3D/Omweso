@@ -1,0 +1,19 @@
+# Server version 0.08 running on hannans-air:8123
+# Game ID: 343
+# Board class: omweso.CCBoard
+# Timeout: 2000
+# First Move Timeout: 60000
+# Date: Mon Mar 30 19:25:34 EDT 2015
+# Player 1: Player-0, 'random', running on hannans-air
+# Player 2: Player-1, 'XXXXXXXXX', running on hannans-air
+START Player-0 random
+START Player-1 XXXXXXXXX
+INIT 0 true 0,3,5,2,0,2,2,1,4,1,1,2,2,2,3,2
+INIT 1 true 4,5,2,4,2,7,6,2,0,0,0,0,0,0,0,0
+PIT 0 3
+PIT 1 1
+PIT 0 9
+PIT 1 0
+PIT 0 6
+GAMEOVER WINNER 0
+# Game ended: Mon Mar 30 19:25:34 EDT 2015

@@ -1,0 +1,21 @@
+# Server version 0.08 running on hannans-air:8123
+# Game ID: 15
+# Board class: omweso.CCBoard
+# Timeout: 2000
+# First Move Timeout: 60000
+# Date: Fri Mar 27 05:32:47 EDT 2015
+# Player 1: Player-0, 'XXXXXXXXX', running on hannans-air
+# Player 2: Player-1, 'Human', running on hannans-air
+START Player-0 XXXXXXXXX
+START Player-1 Human
+INIT 0 true 4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0
+INIT 1 true 4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0
+PIT 0 5
+PIT 1 0
+PIT 0 0
+PIT 1 5
+PIT 0 2
+PIT 1 9
+PIT 0 8
+PIT 1 2
+PIT 0 9

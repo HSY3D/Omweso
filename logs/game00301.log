@@ -1,0 +1,43 @@
+# Server version 0.08 running on hannans-air:8123
+# Game ID: 301
+# Board class: omweso.CCBoard
+# Timeout: 2000
+# First Move Timeout: 60000
+# Date: Mon Mar 30 18:36:37 EDT 2015
+# Player 1: Player-0, 'XXXXXXXXX', running on hannans-air
+# Player 2: Player-1, 'random', running on hannans-air
+START Player-0 XXXXXXXXX
+START Player-1 random
+INIT 0 true 4,1,2,3,3,1,1,2,0,6,1,2,4,1,0,1
+INIT 1 true 4,4,3,4,3,3,5,6,0,0,0,0,0,0,0,0
+PIT 0 0
+PIT 1 7
+PIT 0 1
+PIT 1 0
+PIT 0 4
+PIT 1 5
+PIT 0 1
+PIT 1 1
+PIT 0 2
+PIT 1 4
+PIT 0 0
+PIT 1 7
+PIT 0 1
+PIT 1 8
+PIT 0 5
+PIT 1 10
+PIT 0 7
+PIT 1 14
+PIT 0 9
+PIT 1 15
+PIT 0 1
+PIT 1 12
+PIT 0 0
+PIT 1 1
+PIT 0 1
+PIT 1 0
+PIT 0 3
+PIT 1 2
+PIT 0 0
+GAMEOVER WINNER 0
+# Game ended: Mon Mar 30 18:36:37 EDT 2015
